@@ -1,0 +1,2 @@
+class OlapicController < ApplicationController
+end

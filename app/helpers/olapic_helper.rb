@@ -1,0 +1,2 @@
+module OlapicHelper
+end
